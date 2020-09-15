@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T09:44:18.405Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 YaBrowser/19.6.2.599 Yowser/2.5 Safari/537.36" etag="N82Ng6SSJGSs9nApUzTi" version="13.6.10" type="github"><diagram id="G5MTF_MTZjwtfMYEh_IG" name="Page-1">1Vjdb9owEP9rItEHpJAUWh4hlLKqrbohbdpekEvcxFsSZ45TSP/62Y6dD6B12o3We0HJ3e/s+74jluvF20sC0vAG+zCyHNvfWu7Mcpxzx2a/nFCUhNPxoCQEBPklqUFYoicoiVIuyJEPsxaQYhxRlLaJa5wkcE1bNEAI3rRhDzhq35qCAO4RlmsQ7VO/IZ+Gyqyzmr6AKAjVzYPRuOTEQIGlJVkIfLxpkNwLy/UIxrR8ircejLjvlF9Kufkz3EoxAhPaReB2PP96VcQ/0N3P6883V8N01Q/68pRHEOXSYMsZRey86T17CPiDNbOtyQCRNXOJ5LFLanZpHC2UxwjOEx/yS23G3oSIwmUK1py7YSnCaCGNI/Y2qKSbRiiNIKFw2yBJoy4hjiElBYOoFJP+LVQE5PumDpdjS1rYCJUraUBmSFCdXDuRPUg/vsKnzrM+9dFjy1ej3zmP/pRZSvsgQkFiuROGiOADrbm1p8tTshQkitZf4wgTJrWkBCVBI0BNVIMsVGhTj6AV18jH+X0rZT5UowcURTwpJ/ese0DBMEKvjLW3tzrLsMI77Vh4o2MVnnug8Kae6Fy9ZkZ67aI5qVoeqX07DSD90jvZC00Lk3GM4tuEox8xU/EQluLyNnFmu1p37/W4ejpcpnAKYwurXtSBnT0hEOjMYrA7SBALCiQ6LMrmorIEbqe2dvWdqxrsVUC7rEud1ktWJR2CIWBVPHhpvXgwkxAz/XUi1zAJmjKReK+l/qYqZQ+ZiQZyjCKtClJXpBXxn1fpqX7lmGL8y8hdw3VMWzaG77lsgJyGBm4bCYihcUqhJx/Qt2plWpp/+GgfHRrtrBmvJiIl6yHIU1TXwVe3LGFqEVqk2qa/+sTDWcuw6GpFPJzTHmJB4KM5p1r8dwiIxBcQ6Eaisly/TnDddbCu24nA9V7Szazxt5vJBsy/M/38W+Rx6x+KOQNwODJtAJ6/5wBcQOAbN2muYZAZp9QCJL55Whm5KYgvkBPR+P+nJWGvFXRdEs6O1QrGh5aErpMtBihR8304tYYz8QE5yEz9Y7frfqdrJx6MX+9/9lp/qBa8xtd+9+IP</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-15T09:44:52.267Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 YaBrowser/19.6.2.599 Yowser/2.5 Safari/537.36" etag="iOZ5iZMcwJeCgkDMkSNu" version="13.6.10" type="github">
+  <diagram id="G5MTF_MTZjwtfMYEh_IG" name="Page-1">
+    <mxGraphModel dx="820" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="N9FVJymZiPjLQMJ5p_-g-1" value="&lt;b&gt;Сircle&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="110" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N9FVJymZiPjLQMJ5p_-g-2" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-color:String&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-r:double&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-filled:boolean&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-side:double&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="140" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N9FVJymZiPjLQMJ5p_-g-3" value="+Circle(r:double,color:String)&lt;br&gt;+getR():double&lt;br&gt;+setR(double r):void&lt;br&gt;+toString():String&lt;br&gt;+getColor():String&lt;br&gt;+setColor(String color):void&lt;br&gt;+getArea():double&lt;br&gt;+getPerimeter():double&lt;br&gt;+isFilled():boolean&lt;br&gt;+setFilled:(boolean filled):void&lt;br&gt;+getSide():double&lt;br&gt;+setSide(double side):void&lt;br&gt;+setWidth(double side):void&lt;br&gt;+setLength(double length):void" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="80" y="200" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="N9FVJymZiPjLQMJ5p_-g-4" value="&lt;b&gt;Book&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="110" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N9FVJymZiPjLQMJ5p_-g-5" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-author:String&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-name:String&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-izdat:String&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="140" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N9FVJymZiPjLQMJ5p_-g-6" value="+set_Author(String auth):void&lt;br&gt;+set_Name(String type):void&lt;br&gt;+set_Izdat(String izd):void&lt;br&gt;+set_Cout(int cout):void&lt;br&gt;+set_Year(int yea):void&lt;br&gt;+get_Author():String&lt;br&gt;+get_Izd():String&lt;br&gt;+toString():String&lt;br&gt;+toStr():void&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="320" y="200" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="N9FVJymZiPjLQMJ5p_-g-7" value="&lt;b&gt;Human&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="110" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N9FVJymZiPjLQMJ5p_-g-8" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-Head:String&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-Legs:String&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-Hands:String&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-name:String&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;-age:int&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="140" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="N9FVJymZiPjLQMJ5p_-g-9" value="+toString():String&lt;br&gt;+main(String[] args):void" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="560" y="210" width="200" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
